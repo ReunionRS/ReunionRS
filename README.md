@@ -43,10 +43,3 @@
   <img src="https://img.shields.io/badge/PonyXL-4C1D95?style=flat-square">
 </p>
 
----
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReunionRS&hide_border=true" alt="GitHub Streak">
-</p>
