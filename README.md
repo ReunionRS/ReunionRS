@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I'm Ilya </h1>
 
-### CGI / Web Developer based in Izhevsk
+### CGI / Web Developer based in Kazan
 
 <p align="left">
   <a href="https://reunionrs.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
