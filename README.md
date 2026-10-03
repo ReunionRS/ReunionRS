@@ -41,5 +41,8 @@
   <img src="https://img.shields.io/badge/Stable%20Diffusion-4C1D95?style=flat-square">
   <img src="https://img.shields.io/badge/SDXL-4C1D95?style=flat-square">
   <img src="https://img.shields.io/badge/PonyXL-4C1D95?style=flat-square">
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenProvider-2563EB?style=flat-square">
 </p>
 
